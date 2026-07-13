@@ -15,72 +15,72 @@ msgstr ""
 
 #: src/App.jsx:171
 msgid "{days, plural, zero {Last watered today} one {Last watered 1 day ago} other {Last watered # days ago}}"
-msgstr ""
+msgstr "{days, plural, zero {Arrosé aujourd'hui} one {Arrosé il y a 1 jour} many {Arrosé il y a # jours} other {Arrosé il y a # jours}}"
 
 #: src/App.jsx:76
 msgid "{thirstyCount, plural, zero {All your plants are happy.} one {1 plant needs water today.} other {# plants need water today.}}"
-msgstr ""
+msgstr "{thirstyCount, plural, zero {Toutes vos plantes sont heureuses.} one {1 plante a besoin d'eau aujourd'hui.} many {# plantes ont besoin d'eau aujourd'hui.} other {# plantes ont besoin d'eau aujourd'hui.}}"
 
 #: src/App.jsx:204
 msgid "© 2026 Sprout. Made for forgetful plant parents."
-msgstr ""
+msgstr "© 2026 Sprout. Conçu pour les parents de plantes oublieux."
 
 #: src/App.jsx:95
 msgid "Add a new plant"
-msgstr ""
+msgstr "Ajouter une nouvelle plante"
 
 #: src/App.jsx:88
 msgid "Add plant"
-msgstr ""
+msgstr "Ajouter une plante"
 
 #: src/App.jsx:149
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: src/App.jsx:131
 msgid "e.g. 7"
-msgstr ""
+msgstr "p. ex. 7"
 
 #: src/App.jsx:117
 msgid "e.g. Epipremnum aureum"
-msgstr ""
+msgstr "p. ex. Epipremnum aureum"
 
 #: src/App.jsx:104
 msgid "e.g. Monstera deliciosa"
-msgstr ""
+msgstr "p. ex. Monstera deliciosa"
 
 #: src/App.jsx:186
 msgid "Healthy"
-msgstr ""
+msgstr "En bonne santé"
 
 #: src/App.jsx:69
 msgid "Keep your plants alive."
-msgstr ""
+msgstr "Gardez vos plantes en vie."
 
 #: src/App.jsx:186
 msgid "Needs water"
-msgstr ""
+msgstr "Besoin d'eau"
 
 #: src/App.jsx:99
 msgid "Plant name"
-msgstr ""
+msgstr "Nom de la plante"
 
 #: src/App.jsx:142
 msgid "Save"
-msgstr ""
+msgstr "Enregistrer"
 
 #: src/App.jsx:112
 msgid "Species"
-msgstr ""
+msgstr "Espèce"
 
 #: src/App.jsx:50
 msgid "Unknown species"
-msgstr ""
+msgstr "Espèce inconnue"
 
 #: src/App.jsx:193
 msgid "Water now"
-msgstr ""
+msgstr "Arroser maintenant"
 
 #: src/App.jsx:125
 msgid "Watering frequency (days)"
-msgstr ""
+msgstr "Fréquence d'arrosage (jours)"

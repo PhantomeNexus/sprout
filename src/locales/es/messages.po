@@ -15,72 +15,72 @@ msgstr ""
 
 #: src/App.jsx:171
 msgid "{days, plural, zero {Last watered today} one {Last watered 1 day ago} other {Last watered # days ago}}"
-msgstr ""
+msgstr "{days, plural, zero {Regado hoy} one {Regado hace 1 día} many {Regado hace # días} other {Regado hace # días}}"
 
 #: src/App.jsx:76
 msgid "{thirstyCount, plural, zero {All your plants are happy.} one {1 plant needs water today.} other {# plants need water today.}}"
-msgstr ""
+msgstr "{thirstyCount, plural, zero {Todas tus plantas están felices.} one {1 planta necesita agua hoy.} many {# plantas necesitan agua hoy.} other {# plantas necesitan agua hoy.}}"
 
 #: src/App.jsx:204
 msgid "© 2026 Sprout. Made for forgetful plant parents."
-msgstr ""
+msgstr "© 2026 Sprout. Hecho para padres olvidadizos de plantas."
 
 #: src/App.jsx:95
 msgid "Add a new plant"
-msgstr ""
+msgstr "Añadir una nueva planta"
 
 #: src/App.jsx:88
 msgid "Add plant"
-msgstr ""
+msgstr "Añadir planta"
 
 #: src/App.jsx:149
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: src/App.jsx:131
 msgid "e.g. 7"
-msgstr ""
+msgstr "p. ej. 7"
 
 #: src/App.jsx:117
 msgid "e.g. Epipremnum aureum"
-msgstr ""
+msgstr "p. ej. Epipremnum aureum"
 
 #: src/App.jsx:104
 msgid "e.g. Monstera deliciosa"
-msgstr ""
+msgstr "p. ej. Monstera deliciosa"
 
 #: src/App.jsx:186
 msgid "Healthy"
-msgstr ""
+msgstr "Saludable"
 
 #: src/App.jsx:69
 msgid "Keep your plants alive."
-msgstr ""
+msgstr "Mantén tus plantas vivas."
 
 #: src/App.jsx:186
 msgid "Needs water"
-msgstr ""
+msgstr "Necesita agua"
 
 #: src/App.jsx:99
 msgid "Plant name"
-msgstr ""
+msgstr "Nombre de la planta"
 
 #: src/App.jsx:142
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: src/App.jsx:112
 msgid "Species"
-msgstr ""
+msgstr "Especie"
 
 #: src/App.jsx:50
 msgid "Unknown species"
-msgstr ""
+msgstr "Especie desconocida"
 
 #: src/App.jsx:193
 msgid "Water now"
-msgstr ""
+msgstr "Regar ahora"
 
 #: src/App.jsx:125
 msgid "Watering frequency (days)"
-msgstr ""
+msgstr "Frecuencia de riego (días)"

@@ -15,72 +15,72 @@ msgstr ""
 
 #: src/App.jsx:171
 msgid "{days, plural, zero {Last watered today} one {Last watered 1 day ago} other {Last watered # days ago}}"
-msgstr ""
+msgstr "{days, plural, other {#日前に最後に水やりしました}}"
 
 #: src/App.jsx:76
 msgid "{thirstyCount, plural, zero {All your plants are happy.} one {1 plant needs water today.} other {# plants need water today.}}"
-msgstr ""
+msgstr "{thirstyCount, plural, zero {すべての植物が元気です。} one {1つの植物が今日水が必要です。} other {#つの植物が今日水が必要です。}}"
 
 #: src/App.jsx:204
 msgid "© 2026 Sprout. Made for forgetful plant parents."
-msgstr ""
+msgstr "© 2026 Sprout. 植物の世話を忘れがちな親のために作られました。"
 
 #: src/App.jsx:95
 msgid "Add a new plant"
-msgstr ""
+msgstr "新しい植物を追加"
 
 #: src/App.jsx:88
 msgid "Add plant"
-msgstr ""
+msgstr "植物を追加"
 
 #: src/App.jsx:149
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: src/App.jsx:131
 msgid "e.g. 7"
-msgstr ""
+msgstr "例：7"
 
 #: src/App.jsx:117
 msgid "e.g. Epipremnum aureum"
-msgstr ""
+msgstr "例：ポトス"
 
 #: src/App.jsx:104
 msgid "e.g. Monstera deliciosa"
-msgstr ""
+msgstr "例：モンステラ"
 
 #: src/App.jsx:186
 msgid "Healthy"
-msgstr ""
+msgstr "健康"
 
 #: src/App.jsx:69
 msgid "Keep your plants alive."
-msgstr ""
+msgstr "植物を元気に保ちましょう。"
 
 #: src/App.jsx:186
 msgid "Needs water"
-msgstr ""
+msgstr "水が必要"
 
 #: src/App.jsx:99
 msgid "Plant name"
-msgstr ""
+msgstr "植物の名前"
 
 #: src/App.jsx:142
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: src/App.jsx:112
 msgid "Species"
-msgstr ""
+msgstr "種類"
 
 #: src/App.jsx:50
 msgid "Unknown species"
-msgstr ""
+msgstr "不明な種類"
 
 #: src/App.jsx:193
 msgid "Water now"
-msgstr ""
+msgstr "今すぐ水やりする"
 
 #: src/App.jsx:125
 msgid "Watering frequency (days)"
-msgstr ""
+msgstr "水やりの頻度（日数）"
